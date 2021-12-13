@@ -1,0 +1,790 @@
+{
+    "annotations": [
+        {
+            "area": 32448.0,
+            "bbox": [
+                493.0,
+                300.0,
+                169.0,
+                192.0
+            ],
+            "category_id": 26,
+            "id": 1,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 11500.0,
+            "bbox": [
+                523.0,
+                492.0,
+                115.0,
+                100.0
+            ],
+            "category_id": 32,
+            "id": 2,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 25110.0,
+            "bbox": [
+                340.0,
+                373.0,
+                162.0,
+                155.0
+            ],
+            "category_id": 81,
+            "id": 3,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 14241.0,
+            "bbox": [
+                371.0,
+                121.0,
+                141.0,
+                101.0
+            ],
+            "category_id": 81,
+            "id": 4,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 7308.0,
+            "bbox": [
+                225.0,
+                147.0,
+                84.0,
+                87.0
+            ],
+            "category_id": 32,
+            "id": 5,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 10815.0,
+            "bbox": [
+                221.0,
+                485.0,
+                105.0,
+                103.0
+            ],
+            "category_id": 81,
+            "id": 6,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 10332.0,
+            "bbox": [
+                364.0,
+                521.0,
+                126.0,
+                82.0
+            ],
+            "category_id": 32,
+            "id": 7,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 10094.0,
+            "bbox": [
+                638.0,
+                142.0,
+                98.0,
+                103.0
+            ],
+            "category_id": 80,
+            "id": 8,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 26062.0,
+            "bbox": [
+                355.0,
+                219.0,
+                166.0,
+                157.0
+            ],
+            "category_id": 80,
+            "id": 9,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 10856.0,
+            "bbox": [
+                664.0,
+                372.0,
+                92.0,
+                118.0
+            ],
+            "category_id": 32,
+            "id": 10,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 13832.0,
+            "bbox": [
+                201.0,
+                356.0,
+                104.0,
+                133.0
+            ],
+            "category_id": 80,
+            "id": 11,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 13231.0,
+            "bbox": [
+                655.0,
+                240.0,
+                101.0,
+                131.0
+            ],
+            "category_id": 81,
+            "id": 12,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 12672.0,
+            "bbox": [
+                201.0,
+                227.0,
+                99.0,
+                128.0
+            ],
+            "category_id": 81,
+            "id": 13,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 18221.0,
+            "bbox": [
+                511.0,
+                151.0,
+                137.0,
+                133.0
+            ],
+            "category_id": 81,
+            "id": 14,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        },
+        {
+            "area": 10506.0,
+            "bbox": [
+                635.0,
+                485.0,
+                102.0,
+                103.0
+            ],
+            "category_id": 81,
+            "id": 15,
+            "ignore": 0,
+            "image_id": 0,
+            "iscrowd": 0
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "3+2-2",
+            "supercategory": "none"
+        },
+        {
+            "id": 2,
+            "name": "3jia2",
+            "supercategory": "none"
+        },
+        {
+            "id": 3,
+            "name": "aerbeisi",
+            "supercategory": "none"
+        },
+        {
+            "id": 4,
+            "name": "anmuxi",
+            "supercategory": "none"
+        },
+        {
+            "id": 5,
+            "name": "aoliao",
+            "supercategory": "none"
+        },
+        {
+            "id": 6,
+            "name": "asamu",
+            "supercategory": "none"
+        },
+        {
+            "id": 7,
+            "name": "baicha",
+            "supercategory": "none"
+        },
+        {
+            "id": 8,
+            "name": "baishikele",
+            "supercategory": "none"
+        },
+        {
+            "id": 9,
+            "name": "baishikele-2",
+            "supercategory": "none"
+        },
+        {
+            "id": 10,
+            "name": "baokuangli",
+            "supercategory": "none"
+        },
+        {
+            "id": 11,
+            "name": "binghongcha",
+            "supercategory": "none"
+        },
+        {
+            "id": 12,
+            "name": "bingqilinniunai",
+            "supercategory": "none"
+        },
+        {
+            "id": 13,
+            "name": "bingtangxueli",
+            "supercategory": "none"
+        },
+        {
+            "id": 14,
+            "name": "buding",
+            "supercategory": "none"
+        },
+        {
+            "id": 15,
+            "name": "chacui",
+            "supercategory": "none"
+        },
+        {
+            "id": 16,
+            "name": "chapai",
+            "supercategory": "none"
+        },
+        {
+            "id": 17,
+            "name": "chapai2",
+            "supercategory": "none"
+        },
+        {
+            "id": 18,
+            "name": "damaicha",
+            "supercategory": "none"
+        },
+        {
+            "id": 19,
+            "name": "daofandian1",
+            "supercategory": "none"
+        },
+        {
+            "id": 20,
+            "name": "daofandian2",
+            "supercategory": "none"
+        },
+        {
+            "id": 21,
+            "name": "daofandian3",
+            "supercategory": "none"
+        },
+        {
+            "id": 22,
+            "name": "daofandian4",
+            "supercategory": "none"
+        },
+        {
+            "id": 23,
+            "name": "dongpeng",
+            "supercategory": "none"
+        },
+        {
+            "id": 24,
+            "name": "dongpeng-b",
+            "supercategory": "none"
+        },
+        {
+            "id": 25,
+            "name": "fenda",
+            "supercategory": "none"
+        },
+        {
+            "id": 26,
+            "name": "gudasao",
+            "supercategory": "none"
+        },
+        {
+            "id": 27,
+            "name": "guolicheng",
+            "supercategory": "none"
+        },
+        {
+            "id": 28,
+            "name": "guolicheng2",
+            "supercategory": "none"
+        },
+        {
+            "id": 29,
+            "name": "haitai",
+            "supercategory": "none"
+        },
+        {
+            "id": 30,
+            "name": "haochidian",
+            "supercategory": "none"
+        },
+        {
+            "id": 31,
+            "name": "haoliyou",
+            "supercategory": "none"
+        },
+        {
+            "id": 32,
+            "name": "heweidao",
+            "supercategory": "none"
+        },
+        {
+            "id": 33,
+            "name": "heweidao2",
+            "supercategory": "none"
+        },
+        {
+            "id": 34,
+            "name": "heweidao3",
+            "supercategory": "none"
+        },
+        {
+            "id": 35,
+            "name": "hongniu",
+            "supercategory": "none"
+        },
+        {
+            "id": 36,
+            "name": "hongniu2",
+            "supercategory": "none"
+        },
+        {
+            "id": 37,
+            "name": "hongshaoniurou",
+            "supercategory": "none"
+        },
+        {
+            "id": 38,
+            "name": "jianjiao",
+            "supercategory": "none"
+        },
+        {
+            "id": 39,
+            "name": "jianlibao",
+            "supercategory": "none"
+        },
+        {
+            "id": 40,
+            "name": "jindian",
+            "supercategory": "none"
+        },
+        {
+            "id": 41,
+            "name": "kafei",
+            "supercategory": "none"
+        },
+        {
+            "id": 42,
+            "name": "kaomo_gali",
+            "supercategory": "none"
+        },
+        {
+            "id": 43,
+            "name": "kaomo_jiaoyan",
+            "supercategory": "none"
+        },
+        {
+            "id": 44,
+            "name": "kaomo_shaokao",
+            "supercategory": "none"
+        },
+        {
+            "id": 45,
+            "name": "kaomo_xiangcon",
+            "supercategory": "none"
+        },
+        {
+            "id": 46,
+            "name": "kebike",
+            "supercategory": "none"
+        },
+        {
+            "id": 47,
+            "name": "kele",
+            "supercategory": "none"
+        },
+        {
+            "id": 48,
+            "name": "kele-b",
+            "supercategory": "none"
+        },
+        {
+            "id": 49,
+            "name": "kele-b-2",
+            "supercategory": "none"
+        },
+        {
+            "id": 50,
+            "name": "laotansuancai",
+            "supercategory": "none"
+        },
+        {
+            "id": 51,
+            "name": "liaomian",
+            "supercategory": "none"
+        },
+        {
+            "id": 52,
+            "name": "libaojian",
+            "supercategory": "none"
+        },
+        {
+            "id": 53,
+            "name": "lingdukele",
+            "supercategory": "none"
+        },
+        {
+            "id": 54,
+            "name": "lingdukele-b",
+            "supercategory": "none"
+        },
+        {
+            "id": 55,
+            "name": "liziyuan",
+            "supercategory": "none"
+        },
+        {
+            "id": 56,
+            "name": "lujiaoxiang",
+            "supercategory": "none"
+        },
+        {
+            "id": 57,
+            "name": "lujikafei",
+            "supercategory": "none"
+        },
+        {
+            "id": 58,
+            "name": "luxiangniurou",
+            "supercategory": "none"
+        },
+        {
+            "id": 59,
+            "name": "maidong",
+            "supercategory": "none"
+        },
+        {
+            "id": 60,
+            "name": "mangguoxiaolao",
+            "supercategory": "none"
+        },
+        {
+            "id": 61,
+            "name": "meiniye",
+            "supercategory": "none"
+        },
+        {
+            "id": 62,
+            "name": "mengniu",
+            "supercategory": "none"
+        },
+        {
+            "id": 63,
+            "name": "mengniuzaocan",
+            "supercategory": "none"
+        },
+        {
+            "id": 64,
+            "name": "moliqingcha",
+            "supercategory": "none"
+        },
+        {
+            "id": 65,
+            "name": "nfc",
+            "supercategory": "none"
+        },
+        {
+            "id": 66,
+            "name": "niudufen",
+            "supercategory": "none"
+        },
+        {
+            "id": 67,
+            "name": "niunai",
+            "supercategory": "none"
+        },
+        {
+            "id": 68,
+            "name": "nongfushanquan",
+            "supercategory": "none"
+        },
+        {
+            "id": 69,
+            "name": "qingdaowangzi-1",
+            "supercategory": "none"
+        },
+        {
+            "id": 70,
+            "name": "qingdaowangzi-2",
+            "supercategory": "none"
+        },
+        {
+            "id": 71,
+            "name": "qinningshui",
+            "supercategory": "none"
+        },
+        {
+            "id": 72,
+            "name": "quchenshixiangcao",
+            "supercategory": "none"
+        },
+        {
+            "id": 73,
+            "name": "rancha-1",
+            "supercategory": "none"
+        },
+        {
+            "id": 74,
+            "name": "rancha-2",
+            "supercategory": "none"
+        },
+        {
+            "id": 75,
+            "name": "rousongbing",
+            "supercategory": "none"
+        },
+        {
+            "id": 76,
+            "name": "rusuanjunqishui",
+            "supercategory": "none"
+        },
+        {
+            "id": 77,
+            "name": "suanlafen",
+            "supercategory": "none"
+        },
+        {
+            "id": 78,
+            "name": "suanlaniurou",
+            "supercategory": "none"
+        },
+        {
+            "id": 79,
+            "name": "taipingshuda",
+            "supercategory": "none"
+        },
+        {
+            "id": 80,
+            "name": "tangdaren",
+            "supercategory": "none"
+        },
+        {
+            "id": 81,
+            "name": "tangdaren2",
+            "supercategory": "none"
+        },
+        {
+            "id": 82,
+            "name": "tangdaren3",
+            "supercategory": "none"
+        },
+        {
+            "id": 83,
+            "name": "ufo",
+            "supercategory": "none"
+        },
+        {
+            "id": 84,
+            "name": "ufo2",
+            "supercategory": "none"
+        },
+        {
+            "id": 85,
+            "name": "wanglaoji",
+            "supercategory": "none"
+        },
+        {
+            "id": 86,
+            "name": "wanglaoji-c",
+            "supercategory": "none"
+        },
+        {
+            "id": 87,
+            "name": "wangzainiunai",
+            "supercategory": "none"
+        },
+        {
+            "id": 88,
+            "name": "weic",
+            "supercategory": "none"
+        },
+        {
+            "id": 89,
+            "name": "weitanai",
+            "supercategory": "none"
+        },
+        {
+            "id": 90,
+            "name": "weitanai2",
+            "supercategory": "none"
+        },
+        {
+            "id": 91,
+            "name": "weitanaiditang",
+            "supercategory": "none"
+        },
+        {
+            "id": 92,
+            "name": "weitaningmeng",
+            "supercategory": "none"
+        },
+        {
+            "id": 93,
+            "name": "weitaningmeng-bottle",
+            "supercategory": "none"
+        },
+        {
+            "id": 94,
+            "name": "weiweidounai",
+            "supercategory": "none"
+        },
+        {
+            "id": 95,
+            "name": "wuhounaicha",
+            "supercategory": "none"
+        },
+        {
+            "id": 96,
+            "name": "wulongcha",
+            "supercategory": "none"
+        },
+        {
+            "id": 97,
+            "name": "xianglaniurou",
+            "supercategory": "none"
+        },
+        {
+            "id": 98,
+            "name": "xianguolao",
+            "supercategory": "none"
+        },
+        {
+            "id": 99,
+            "name": "xianxiayuban",
+            "supercategory": "none"
+        },
+        {
+            "id": 100,
+            "name": "xuebi",
+            "supercategory": "none"
+        },
+        {
+            "id": 101,
+            "name": "xuebi-b",
+            "supercategory": "none"
+        },
+        {
+            "id": 102,
+            "name": "xuebi2",
+            "supercategory": "none"
+        },
+        {
+            "id": 103,
+            "name": "yezhi",
+            "supercategory": "none"
+        },
+        {
+            "id": 104,
+            "name": "yibao",
+            "supercategory": "none"
+        },
+        {
+            "id": 105,
+            "name": "yida",
+            "supercategory": "none"
+        },
+        {
+            "id": 106,
+            "name": "yingyangkuaixian",
+            "supercategory": "none"
+        },
+        {
+            "id": 107,
+            "name": "yitengyuan",
+            "supercategory": "none"
+        },
+        {
+            "id": 108,
+            "name": "youlemei",
+            "supercategory": "none"
+        },
+        {
+            "id": 109,
+            "name": "yousuanru",
+            "supercategory": "none"
+        },
+        {
+            "id": 110,
+            "name": "youyanggudong",
+            "supercategory": "none"
+        },
+        {
+            "id": 111,
+            "name": "yuanqishui",
+            "supercategory": "none"
+        },
+        {
+            "id": 112,
+            "name": "zaocanmofang",
+            "supercategory": "none"
+        },
+        {
+            "id": 113,
+            "name": "zihaiguo",
+            "supercategory": "none"
+        }
+    ],
+    "images": [
+        {
+            "file_name": "ori_XYGOC20200716133431629-4_0.jpg",
+            "height": 720.0,
+            "id": 0,
+            "width": 960.0
+        }
+    ],
+    "type": "instances"
+}
