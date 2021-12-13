@@ -7,6 +7,8 @@ import argparse
 import os
 import warnings
 
+from mmcv import DictAction
+
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Train a detector')
