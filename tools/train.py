@@ -7,7 +7,7 @@ import argparse
 import os
 import warnings
 
-from mmcv import DictAction
+from mmcv import Config, DictAction
 
 
 def parse_args():
@@ -77,6 +77,8 @@ def parse_args():
 
 def main():
     args = parse_args()
+
+    cfg = Config.fromfile(args.config)
 
 
 if __name__ == '__main__':

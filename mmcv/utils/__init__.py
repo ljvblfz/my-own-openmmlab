@@ -2,4 +2,4 @@
 # -*- coding: utf-8 -*-
 #
 
-from .config import DictAction
+from .config import Config, DictAction
